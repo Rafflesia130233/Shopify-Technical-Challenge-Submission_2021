@@ -20,6 +20,8 @@ steps:
 - title: Description?
   description: An application for buying and selling artworks.
   video: https://www.youtube.com/embed/HyjYL0eW-IY
+  
+  [![Little red riding hood](http://i.imgur.com/7YTMFQp.png)](https://vimeo.com/3514904 "Little red riding hood - Click to Watch!")
 
 
 
