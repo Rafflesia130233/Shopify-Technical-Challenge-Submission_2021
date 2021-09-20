@@ -15,6 +15,8 @@ Please Visit
 
   
   [![Project Description](https://image-drive-new-mean-9w6ui.ondigitalocean.app/home)](https://www.youtube.com/watch?v=HyjYL0eW-IY "An application for buying and selling artworks, What's there and What's required - Click to Watch!")
+  
+  [![Everything Is AWESOME](https://yt-embed.herokuapp.com/embed?v=StTqXEQ2l-Y)](https://www.youtube.com/watch?v=StTqXEQ2l-Y "Everything Is AWESOME")
 
 
 
