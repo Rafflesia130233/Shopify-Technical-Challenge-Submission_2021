@@ -1,14 +1,14 @@
 # Shopify-Technical-Challenge-Submission_2021
 
-## IMAGE DRIVE
+# IMAGE DRIVE
 
-### Front-end
+## Front-end
 
-# GithubLink:
+### GithubLink:
 
-### Back-end
+## Back-end
 
-# GithubLink:
+### GithubLink:
 
 
 Please Visit
