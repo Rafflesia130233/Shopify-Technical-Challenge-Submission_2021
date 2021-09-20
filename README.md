@@ -14,8 +14,8 @@ Please Visit
 ### GithubLink: https://github.com/Rafflesia130233/shop-service
 
   
-  <div align="center">
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/HyjYL0eW-IY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div align="center">
+  <a href="https://www.youtube.com/watch?v=HyjYL0eW-IY"><img src="https://img.youtube.com/vi/HyjYL0eW-IY/0.jpg" alt="IMAGE ALT TEXT"></a>
 </div>
 
 <div align="center">
