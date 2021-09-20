@@ -13,15 +13,8 @@ Please Visit
 
 ### GithubLink: https://github.com/Rafflesia130233/shop-service
 
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HyjYL0eW-IY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-steps:
-- title: Description?
-  description: An application for buying and selling artworks.
-  video: https://www.youtube.com/embed/HyjYL0eW-IY
   
-  [![Little red riding hood](http://i.imgur.com/7YTMFQp.png)](https://vimeo.com/3514904 "Little red riding hood - Click to Watch!")
+  [![Project Description]](https://youtu.be/HyjYL0eW-IY "An application for buying and selling artworks - What's there and What's required - Click to Watch!")
 
 
 
